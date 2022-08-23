@@ -108,6 +108,47 @@ body {
 
 }
 
-.other-amount a {
-    margin-top: 30px;
+
+
+.donate-plan {
+    margin-bottom: 80px;
+}
+
+
+.donate-category-container {
+    display: flex;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.donate-category {
+    width: 33%;
+    text-align: left;
+    background-color: #4F9DA61A;
+    padding: 70px 35px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.donate-category h3 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.donate-category p {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #707070;
+}
+
+#shelter-color {
+    background-color: #FF59591A;
+}
+
+#education-color {
+    background-color: #FFF4D6;
 }
